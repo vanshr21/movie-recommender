@@ -6,6 +6,8 @@
 **Email: vansh@gmail.com**
 
 ---
+# Movie Recommender System
+**Open in Colab:** [Click here](https://colab.research.google.com/github/<username>/Movie_Recommender/blob/main/Movie_Recommender.ipynb)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
