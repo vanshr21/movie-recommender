@@ -9,7 +9,7 @@
 ## Run the Notebook Interactively
 Click the link below to open the **Movie Recommender** notebook in Google Colab. You can run it, use the search input, and view movie recommendations dynamically:
 
-[Open in Colab](https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing)
+[Open in Colab](https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing](https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing))
 
 
 ## Table of Contents
