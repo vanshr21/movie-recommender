@@ -5,7 +5,8 @@
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing](https://colab.research.google.com/github/vanshr21/movie-recommender/blob/main/Movie_Recommendation_System.ipynb
+)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
