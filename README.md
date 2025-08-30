@@ -7,7 +7,7 @@
 
 ---
 # Movie Recommender System
-**Open in Colab:** [Click here](https://colab.research.google.com/github/<username>/Movie_Recommender/blob/main/Movie_Recommender.ipynb)
+**Open in Colab:** [Click here]([https://colab.research.google.com/github/<username>/Movie_Recommender/blob/main/Movie_Recommender.ipynb](https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing))
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
