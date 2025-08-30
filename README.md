@@ -6,8 +6,11 @@
 **Email: vansh@gmail.com**
 
 ---
-# Movie Recommender System
-**Open in Colab:** [Click here]([https://colab.research.google.com/github/<username>/Movie_Recommender/blob/main/Movie_Recommender.ipynb](https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing))
+## Run the Notebook Interactively
+Click the link below to open the **Movie Recommender** notebook in Google Colab. You can run it, use the search input, and view movie recommendations dynamically:
+
+[Open in Colab](https://colab.research.google.com/drive/19nPswuwBgihxclV0TeHlhANhsjEb3Vug?usp=sharing)
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
