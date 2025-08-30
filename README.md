@@ -1,7 +1,7 @@
 # Movie Recommender System
 
 **Author:** Vansh Rana (Machine Learning & AI)  
-**Email:** vansh@gmail.com
+**Email:** vanshr493@gmail.com
 
 ---
 
